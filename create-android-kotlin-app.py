@@ -9,8 +9,8 @@ import requests
 import re
 
 
-REPO_URL = 'https://github.com/KDesp73/create-android-kotlin-app'
-ORIGINAL_PACKAGE_NAME = 'com.example.myapplication'
+REPO_URL = 'https://github.com/KDesp73/kotlin-compose-starter'
+ORIGINAL_PACKAGE_NAME = 'io.github.kdesp73.myapplication'
 ZIP_UNIX_SYSTEM = 3
 
 
